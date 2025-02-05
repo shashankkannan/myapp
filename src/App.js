@@ -9,7 +9,7 @@ function Home() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Hello, This is Shashank!!</p>
+        <p>Master Git!!</p>
       </header>
     </div>
   );
