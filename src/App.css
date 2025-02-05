@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+/* App.css */
+.horizontal-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex; /* This is KEY for horizontal layout */
+  /* justify-content: center;  Optional: Center the links */
+}
+
+.horizontal-list li {
+  margin: 0 10px; /* Space between items */
+}
+
+.horizontal-list a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.horizontal-list a:hover {
+  background-color: #eee;
+}
+
+nav { /* Style the <nav> element itself */
+  background-color: #f0f0f0; /* Example background color */
+  padding: 10px;             /* Example padding */
+}
+
+/* ... other styles ... */
