@@ -1,5 +1,6 @@
-```markdown
 # Mastering Git CLI: A Comprehensive Guide to Version Control
+
+## Medium Blog
 
 You can read the comprehensive guide to mastering Git CLI on Medium here:  
 [Mastering Git CLI: A Comprehensive Guide to Version Control](https://medium.com/@shashank.kannan.cs/mastering-git-cli-a-comprehensive-guide-to-version-control-d600eb3e294f)
