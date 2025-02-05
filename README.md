@@ -1,6 +1,9 @@
 ```markdown
 # Mastering Git CLI: A Comprehensive Guide to Version Control
 
+You can read the comprehensive guide to mastering Git CLI on Medium here:  
+[Mastering Git CLI: A Comprehensive Guide to Version Control](https://medium.com/@shashank.kannan.cs/mastering-git-cli-a-comprehensive-guide-to-version-control-d600eb3e294f)
+
 ## Introduction
 Git is a version control system that allows you to track changes in your projects, collaborate with teammates, and maintain a structured workflow. Git can be used locally and connected to GitHub using GitHub CLI, which enables seamless collaboration on projects.
 
